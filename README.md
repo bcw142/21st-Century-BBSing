@@ -6,7 +6,10 @@ Not sure yet what markup language is used here, but I know typing an address lin
 <A HREF=http://telnetbbsguide.com/bbs/list/brief>Brief Telnet BBS List</A> |
 <A HREF=http://telnetbbsguide.com/bbs/list/detail>Detailed Telnet BBS List</A> | 
 <A HREF=http://syncterm.bbsdev.net/>SyncTERM</A> for various systems |
-<BR>Looks normal to me so I guess I can use it ;)
-Just a quick file of links to other related GitHub repositories:
-https://github.com/BBSRoot | https://github.com/BBSRoot/BBS-ANSI-Graphics/tree/master/Agency/Agency.html | NuSkooler/enigma-bbs ENiGMA½ BBS Software | https://github.com/ankushagarwal/nweb | https://github.com/wwivbbs/wwiv | https://github.com/pyffle/Pyffle-BBS | https://github.com/maranas/mystic_rss | https://github.com/Gryphon324/doubleup | https://github.com/Gryphon324/gfiles |
+<BR>Looks normal to me so I guess I can use it ;)<BR>
+Just a quick file of links to other related GitHub repositories:<BR>
+https://github.com/BBSRoot | https://github.com/BBSRoot/BBS-ANSI-Graphics/tree/master/Agency/Agency.html | 
+NuSkooler/enigma-bbs ENiGMA½ BBS Software | https://github.com/ankushagarwal/nweb | https://github.com/wwivbbs/wwiv | 
+https://github.com/pyffle/Pyffle-BBS | https://github.com/maranas/mystic_rss | 
+https://github.com/Gryphon324/doubleup | https://github.com/Gryphon324/gfiles |
 Looks like .md files will work as HTML, but .html won't!

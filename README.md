@@ -9,7 +9,7 @@ Not sure yet what markup language is used here, but I know typing an address lin
 <BR>Looks normal to me so I guess I can use it ;)<BR>
 Just a quick file of links to other related GitHub repositories:<BR>
 https://github.com/BBSRoot | https://github.com/BBSRoot/BBS-ANSI-Graphics/tree/master/Agency/Agency.html | 
-NuSkooler/enigma-bbs ENiGMA½ BBS Software | https://github.com/ankushagarwal/nweb | https://github.com/wwivbbs/wwiv | 
+https://github.com/NuSkooler/enigma-bbs | https://github.com/ankushagarwal/nweb | https://github.com/wwivbbs/wwiv | 
 https://github.com/pyffle/Pyffle-BBS | https://github.com/maranas/mystic_rss | 
-https://github.com/Gryphon324/doubleup | https://github.com/Gryphon324/gfiles |
-Looks like .md files will work as HTML, but .html won't!
+https://github.com/Gryphon324/doubleup | https://github.com/Gryphon324/gfiles | https://github.com/davestephens/bbs-ansi-adverts
+<BR>Looks like .md files will work as HTML, but .html won't!
